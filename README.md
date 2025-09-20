@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Arrox78
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning html/css/js
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me: join me on discord
+- 🌱 I’m currently learning C
+- 💞️ I’m looking to collaborate on nothing for now
+- 📫 How to reach me: @arrox78-:matrix.org on Matrix
 
 <!---
 Arrox78/Arrox78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
