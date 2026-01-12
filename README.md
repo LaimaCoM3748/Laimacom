@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arrox78
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on nothing for now
+- 👀 I’m interested in coding, gaming, linux, music
+- 🌱 I’m currently learning C, Python
+- 💞️ I'm totally open to collaborating on any project
 - 📫 How to reach me: @arrox78-:matrix.org on Matrix
 
 <!---
